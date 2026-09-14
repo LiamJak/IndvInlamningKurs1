@@ -12,11 +12,21 @@
 
 ### Del 3: Kommandoradsarbete & Felsökning
 **Ubuntu/bash**
+
+*Skapar mappen och .txt filen*
 ![skapat mappen och .txt filen](/MappAnt.png)
+
+*Skapar gruppen "Konsulter"*
 ![skapat Gruppen "Konsulter"](/KonsulterAdd.png)
+
+*Tilldelar behörigheten till mappen samt .txt filen*
 ![Tilldelat behörigheter](/Behörigheter.png)
+
+*Inspekterar behörigheterna*
 ![isnpekterar behörigheter Ant](/BehörigheterAnt.png)
 ![Inspekterat behörigheterna](/inspekt.png)
+
+*Pingar från Ubuntu till Windows
 ![Ping från Ubuntu till Windows](/PingUbuntu.png)
 
 **Windows/Powershell**
