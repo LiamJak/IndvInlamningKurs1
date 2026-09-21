@@ -3,6 +3,9 @@
 ### Liam Jakobsson  2026-09-14 -> 2026-09-21
 **Detta är min individuella uppgift om Labbmiljöer, Git, CLI, AI**
 
+*Min git-historik*<br>
+![GitHistorik](./Bilder/GitHistorik.png)
+
 ### Del 2: Virtuell Labbmiljö & Nätverk
 
 | Hostname | Operativsystem | IP-adresser | Subnätmask | Standard Gateway |
@@ -97,7 +100,7 @@ Användaren behöver därefter logga ut och in igen för att gruppmedlemskapet s
 **Slut på svar**
 
 **Utvärdering:**<br>
-Koden var korrekt, den gjorde det jag ville med den CLI jag använt mest. Jag upptäckte inga hallucinatoner, föråldrade kommandon eller säkerhetsbrister i AI svaret.Enligt min erfarenhet så kommer hallucinationer från AI efter ett flertal prompts. 
+Koden var korrekt, den gjorde det jag ville med Bash-terminalen, något jag använt som mest. Den missade dock att ut- och inloggning inte är enda sättet att aktivera gruppmedlemskapet. Även att kommandona fungerar bevisar dock inte att behörigheterna är lämpliga. Jag upptäckte inga hallucinationer, föråldrade kommandon eller säkerhetsbrister i AI svaret.
 
 **hur säkerställde jag AIns svar?**<br>
-Jag använde min virtuella Ubuntu maskin för att verifiera att alla kommandon jag använde stämde överäns med svaren som AIn visade. En förbättring skulle vara en tydligare förklaring på vad varje line gjorde samt flagga, men det kan dock lösas i prompten.
+Jag använde min virtuella Ubuntu maskin för att verifiera att alla kommandon jag använde stämde överäns med svaren som AIn visade. En förbättring skulle vara en tydligare förklaring på vad varje rad gjorde samt flagga, men det kan dock lösas i prompten.
